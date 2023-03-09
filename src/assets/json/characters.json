@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "ServerName": "카제로스",
+    "CharacterName": "CubeJ",
+    "CharacterLevel": 60,
+    "CharacterClassName": "소서리스",
+    "ItemAvgLevel": "1,563.33",
+    "ItemMaxLevel": "1,563.33",
+    "ClassIcon": "/images/icon01.png"
+  },
+  {
+    "id": 2,
+    "ServerName": "카제로스",
+    "CharacterName": "영점안잡혔어요",
+    "CharacterLevel": 60,
+    "CharacterClassName": "건슬링어",
+    "ItemAvgLevel": "1,540.00",
+    "ItemMaxLevel": "1,540.00",
+    "ClassIcon": "/images/icon04.png"
+  },
+  {
+    "id": 3,
+    "ServerName": "카제로스",
+    "CharacterName": "오늘더울걸",
+    "CharacterLevel": 60,
+    "CharacterClassName": "도화가",
+    "ItemAvgLevel": "1,550.00",
+    "ItemMaxLevel": "1,550.00",
+    "ClassIcon": "/images/icon02.png"
+  },
+  {
+    "id": 4,
+    "ServerName": "카제로스",
+    "CharacterName": "뿅망치김디붕",
+    "CharacterLevel": 60,
+    "CharacterClassName": "디스트로이어",
+    "ItemAvgLevel": "1,513.33",
+    "ItemMaxLevel": "1,513.33",
+    "ClassIcon": "/images/icon03.png"
+  },  
+  {
+    "id": 5,
+    "ServerName": "카제로스",
+    "CharacterName": "NiNoMox",
+    "CharacterLevel": 60,
+    "CharacterClassName": "바드",
+    "ItemAvgLevel": "1,500.00",
+    "ItemMaxLevel": "1,500.00",
+    "ClassIcon": "/images/icon05.png"
+  },
+  {
+    "id": 6,
+    "ServerName": "카제로스",
+    "CharacterName": "기백이형그만좀와",
+    "CharacterLevel": 57,
+    "CharacterClassName": "서머너",
+    "ItemAvgLevel": "1,475.00",
+    "ItemMaxLevel": "1,475.00",
+    "ClassIcon": "/images/icon06.png"
+  },
+  {
+    "id": 7,
+    "ServerName": "카제로스",
+    "CharacterName": "초코맛나는우유",
+    "CharacterLevel": 60,
+    "CharacterClassName": "기상술사",
+    "ItemAvgLevel": "1,470.00",
+    "ItemMaxLevel": "1,470.00",
+    "ClassIcon": "/images/icon07.png"
+  },
+  {
+    "id": 8,
+    "ServerName": "카제로스",
+    "CharacterName": "카드못뽑는데",
+    "CharacterLevel": 60,
+    "CharacterClassName": "아르카나",
+    "ItemAvgLevel": "1,460.00",
+    "ItemMaxLevel": "1,460.00",
+    "ClassIcon": "/images/icon08.png"
+  },
+  {
+    "id": 9,
+    "ServerName": "카제로스",
+    "CharacterName": "제세곱",
+    "CharacterLevel": 60,
+    "CharacterClassName": "스카우터",
+    "ItemAvgLevel": "1,462.50",
+    "ItemMaxLevel": "1,462.50",
+    "ClassIcon": "/images/icon09.png"
+  },
+  {
+    "id": 10,
+    "ServerName": "카제로스",
+    "CharacterName": "오늘추울걸",
+    "CharacterLevel": 60,
+    "CharacterClassName": "창술사",
+    "ItemAvgLevel": "1,460.00",
+    "ItemMaxLevel": "1,460.00",
+    "ClassIcon": "/images/icon10.png"
+  }
+]

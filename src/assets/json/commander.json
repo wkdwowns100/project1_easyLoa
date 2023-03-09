@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "englishName": "valtan",
+    "name": "발탄",
+    "imgUrl": "../images/valtan.png",
+    "ComponentJs": "Valtan.js"
+  },
+  {
+    "id": 2,
+    "englishName": "vykas",
+    "name": "비아키스",
+    "imgUrl": "../images/vykas.png",
+    "ComponentJs": "Vykas.js"
+  },
+  {
+    "id": 3,
+    "englishName": "kakulsaydon",
+    "name": "쿠크세이튼",
+    "imgUrl": "../images/kakulSaydon.png",
+    "ComponentJs": "Kakulsaydon.js"
+  },
+  {
+    "id": 4,
+    "englishName": "abrelshud",
+    "name": "아브렐슈드",
+    "imgUrl": "../images/abrelshud.png",
+    "ComponentJs": "Abrelshud.js"
+  },
+  {
+    "id": 5,
+    "englishName": "illiakan",
+    "name": "일리아칸",
+    "imgUrl": "../images/illiakan.png",
+    "ComponentJs": "Illiakan.js"
+  },
+  {
+    "id": 6,
+    "englishName": "lauriel",
+    "name": "카양겔",
+    "imgUrl": "../images/lauriel.png",
+    "ComponentJs": "Lauriel.js"
+  }
+]

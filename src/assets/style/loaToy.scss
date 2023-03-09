@@ -1,0 +1,20 @@
+@import url(../fonts/font.scss);
+
+body {
+  background: #c5ed8c url(../images/mokoko.png) no-repeat fixed 101%
+    calc(100% - 40px) / 15%;
+  color: #000;
+  font-family: "Pretendard Variable", "Noto Sans KR", sans-serif;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+/* 스크롤바 */
+::-webkit-scrollbar {
+  width: 15px;
+  height: 15px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #28ad57;
+  border: 1px solid #fff;
+  border-radius: 10px;
+}

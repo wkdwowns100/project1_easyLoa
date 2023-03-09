@@ -1,0 +1,65 @@
+header {
+  background-color: #0f8136;
+  color: #fff;
+  font-size: 1.6em;
+  width: 100%;
+  height: 80px;
+  position: fixed;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 700;
+  z-index: 9999;
+  .time {
+    font-size: 0.7em;
+    height: 40px;
+    line-height: 40px;
+    position: absolute;
+    left: 1vw;
+    top: 20px;
+  }
+  ul {
+    display: flex;
+    justify-content: center;
+    li {
+      transition: 0.1s;
+      a {
+        height: 80px;
+        line-height: 80px;
+        padding: 0 5vw;
+        display: flex;
+        align-items: center;
+        svg {
+          margin: auto 10px;
+        }
+      }
+      &:hover {
+        scale: 1.2;
+        color: #84ffaf;
+        a {
+          svg {
+            path {
+              fill: #84ffaf;
+            }
+          }
+        }
+      }
+    }
+  }
+  .logo {
+    width: 160px;
+    position: absolute;
+    right: 2vw;
+    top: 11px;
+    cursor: pointer;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    img {
+      height: 40px;
+    }
+    span {
+      font-size: 0.5em;
+      font-weight: 300;
+      margin: 0 auto;
+    }
+  }
+}

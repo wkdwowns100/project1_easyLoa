@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/project1_easyLoa/static/css/main.b6d1e0cb.css",
+    "main.js": "/project1_easyLoa/static/js/main.75e6917e.js",
+    "static/media/PretendardVariable.woff2": "/project1_easyLoa/static/media/PretendardVariable.36b3a87cd98126711b2b.woff2",
+    "static/media/category09.png": "/project1_easyLoa/static/media/category09.4148a5e2c812cc68baf3.png",
+    "static/media/mokoko.png": "/project1_easyLoa/static/media/mokoko.636756519590e9f00976.png",
+    "static/media/logo.png": "/project1_easyLoa/static/media/logo.c8e8ab818be84051935c.png",
+    "static/media/category06.png": "/project1_easyLoa/static/media/category06.6715e25836375e71d4fb.png",
+    "static/media/category08.png": "/project1_easyLoa/static/media/category08.5036cc12c9705c1d004e.png",
+    "static/media/category05.png": "/project1_easyLoa/static/media/category05.cf5a1f0d7a3c8369fbc0.png",
+    "static/media/category07.png": "/project1_easyLoa/static/media/category07.533e9353b066c09c70e2.png",
+    "index.html": "/project1_easyLoa/index.html",
+    "static/media/homework.svg": "/project1_easyLoa/static/media/homework.f6c2020a4b198c0f8ac828847592cc04.svg",
+    "static/media/cunningPaper.svg": "/project1_easyLoa/static/media/cunningPaper.fe2a7606bad78806339f68d025eb47ee.svg",
+    "static/media/characters.svg": "/project1_easyLoa/static/media/characters.363e379d38de050eb3a661ef835852e3.svg",
+    "main.b6d1e0cb.css.map": "/project1_easyLoa/static/css/main.b6d1e0cb.css.map",
+    "main.75e6917e.js.map": "/project1_easyLoa/static/js/main.75e6917e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6d1e0cb.css",
+    "static/js/main.75e6917e.js"
+  ]
+}

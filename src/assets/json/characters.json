@@ -5,8 +5,8 @@
     "CharacterName": "CubeJ",
     "CharacterLevel": 60,
     "CharacterClassName": "소서리스",
-    "ItemAvgLevel": "1,563.33",
-    "ItemMaxLevel": "1,563.33",
+    "ItemAvgLevel": "1,583.33",
+    "ItemMaxLevel": "1,583.33",
     "ClassIcon": "/images/icon01.png"
   },
   {
@@ -45,15 +45,15 @@
     "CharacterName": "NiNoMox",
     "CharacterLevel": 60,
     "CharacterClassName": "바드",
-    "ItemAvgLevel": "1,500.00",
-    "ItemMaxLevel": "1,500.00",
+    "ItemAvgLevel": "1,506.67",
+    "ItemMaxLevel": "1,506.67",
     "ClassIcon": "/images/icon05.png"
   },
   {
     "id": 6,
     "ServerName": "카제로스",
     "CharacterName": "기백이형그만좀와",
-    "CharacterLevel": 57,
+    "CharacterLevel": 60,
     "CharacterClassName": "서머너",
     "ItemAvgLevel": "1,475.00",
     "ItemMaxLevel": "1,475.00",
